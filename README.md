@@ -4,7 +4,7 @@ Nihat Engin Toklu < http://github.com/engintoklu >, 2018
 
 ## What is framethrower.py
 
-This is a very simple Python library which extends the tkinter library
+This is a very simple Python library which extends the [tkinter library](https://docs.python.org/3/library/tkinter.html)
 with the following widgets:
 
 * GridFrame: a frame which makes it easier to place its contained widgets according to a grid layout
